@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <studentID>SV001</studentID>
+        <name>Nguyễn Văn A</name>
+        <birthYear>2000</birthYear>
+        <class>CNTT1</class>
+        <gender>Nam</gender>
+    </student>
+    <student>
+        <studentID>SV002</studentID>
+        <name>Trần Thị B</name>
+        <birthYear>1999</birthYear>
+        <class>CNTT2</class>
+        <gender>Nữ</gender>
+    </student>
+    <student>
+        <studentID>SV003</studentID>
+        <name>Lê Văn C</name>
+        <birthYear>2001</birthYear>
+        <class>CNTT3</class>
+        <gender>Nam</gender>
+    </student>
+</students>
